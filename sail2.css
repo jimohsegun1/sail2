@@ -2,6 +2,8 @@ body {
   background-image: url("covid.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: 300px;
+  background-attachement: fixed;
 }
 h1 {
   background-color: rgb(171, 171, 205);
